@@ -27,3 +27,9 @@ UPDATE member_dashboard SET workout_routine = 'Weightlifting' WHERE member_id = 
 
 -- Adding 10 loyalty point to member id 2
 UPDATE members SET loyalty_points= loyalty_points + 10 WHERE member_id = 1;
+
+-- Deleting member with ID 3 
+DELETE FROM trains WHERE member_id = 3;
+DELETE FROM member_dashboard WHERE member_id = 3;
+DELETE FROM member_profile WHERE member_id = 3;
+DELETE FROM members WHERE member_id = 3;
