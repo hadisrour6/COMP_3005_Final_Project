@@ -25,7 +25,7 @@ Trainer Side:
 ## Technical Documentation   
 
 **To use the database locally**
-  1. Install postgresSQL. Install Postgres [here]([https://www.python.org/](https://www.postgresql.org/download/)).  
+  1. Install postgresSQL. Install Postgres [here]([https://www.postgresql.org/download/]).  
 
   2. Open pgAdmin4 and make a new database
 
