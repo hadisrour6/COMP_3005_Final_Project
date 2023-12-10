@@ -1,5 +1,5 @@
-# COMP_3005_Final_Project
-Health and Fitness Club Management System Final Project for COMP 3005 
+# Health and Fitness Club Management Database System
+Health and Fitness Club Management System project for COMP 3005 
 
 ## About  
 This is a database-driven applicated designed to streamline operations for a health and fitness club management system. It caters members, trainers,
